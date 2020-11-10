@@ -12,7 +12,7 @@ Caracteristicas:
 - [Open API Docs](/spec.yml)
 ### Clona el repo:
 ```
-$ git clone https://github.comDSHC88/DeResProy.git
+$ git clone https://github.com/DSHC88/DeResProy.git
 ```
 ### Instala las dependencias:
 ```
