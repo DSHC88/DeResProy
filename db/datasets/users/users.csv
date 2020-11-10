@@ -1,0 +1,5 @@
+username,password,firstname,lastname,address,email,phone_number,is_admin
+usuario1,secreta1234,Nombre1,Apellido1,Direccion de residencia 3001,test1@gmail.com,4098750,1
+usuario2,secreta1234,Nombre2,Apellido2,Direccion de residencia 3002,test2@yahoo.com,4098751,0
+usuario3,secreta1234,Nombre3,Apellido3,Direccion de residencia 3003,test3@live.com,4098752,1
+usuario4,secreta1234,Nombre4,Apellido4,Direccion de residencia 3004,test4@hotmail.com,4098753,0
